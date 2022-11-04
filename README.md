@@ -14,4 +14,4 @@ Linkedin Account
 ⚡ 
 
 
-html    css    js react angular
+html    css    js
