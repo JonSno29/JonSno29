@@ -3,9 +3,9 @@
 
 Hi 👋, I'm Jon Snover
 Frontend developer who aims to write quality code
-Linkedin Account Twitter Account
+Linkedin Account  
 
-sadanandpai
+
 
 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at  to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
