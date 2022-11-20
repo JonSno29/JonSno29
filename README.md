@@ -3,20 +3,12 @@
 
 Hi 👋, I'm Jon Snover
 
-Frontend developer who aims to write quality code
+FULL STACK FLEX BOOTCAMP STUDENT
 
 
 Linkedin Account.   [
 
 ](https://www.linkedin.com/in/jon-snover-b15272110/)
-
-
-👨‍💻 I am a frontend developer with focus on web fundamentals. I work at to deliver the quality products. 
-
-I build personal projects during my free time and share them with all of you to help us grow together. 
-
-Please go through my repos and you might come across something useful.
-
 
 
 📫 The best way to reach me over is Linkedin. You can also send me a mail to Snoverjon@gmail.com.
@@ -25,4 +17,4 @@ Please go through my repos and you might come across something useful.
 ⚡ 
 
 
-html    css    js
+
