@@ -1,5 +1,3 @@
-# JonSno29
-
 <div align="center" id="top">
   <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
