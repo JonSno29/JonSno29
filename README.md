@@ -3,10 +3,17 @@
   </div> 
   
   ## MY STORY:
+  
+  I came across this coding bootcamp while studying to become a Real Estate agent, 
+  
+  when I asked myself “What do you really want to do?”. Eventually, my goal is to become a remote developer,
+  
+  a very good one. I love to problem solve, be creative and go above and beyond. I am a very hard worker
+  
+  and believe I would make a strong addition to the your team, please check out my GitHub.
 
 
-
-  ## TABLE OF CONTENTS:
+   ## TABLE OF CONTENTS:
 
  🎗[CONTACT ME](##contact-me)                                       
  
@@ -16,7 +23,7 @@
  
  🎗[](#)   
 
-## INSTALLATION:
+  ## INSTALLATION:
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -70,11 +77,12 @@
 
 🎗 GITHUB REPO:
 
+  🎗  https://github.com/JonSno29
   
 
 ## CREDITS:
 
-🎗 Jon Snover/https://github.com/JonSno29
+  🎗 Jon Snover/https://github.com/JonSno29
 
 
 ## LICENSE:
