@@ -8,13 +8,13 @@
 
   ## TABLE OF CONTENTS:
 
- 🎗[INSTALLATION](#installation)                                       
+ 🎗[CONTACT ME](#contact me)                                       
  
- 🎗[LICENSE](#license)  
+ 🎗[](#)  
  
- 🎗[TESTS](#tests)
+ 🎗[](#)
  
- 🎗[DEPENDENCIES](#dependencies)   
+ 🎗[](#)   
 
 ## INSTALLATION:
 
