@@ -102,9 +102,10 @@
 
 <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
-
- (https://www.linkedin.com/in/jon-snover-b15272110/)
-
+  &nbsp;&nbsp;
+  [![website](./img/linkedin-light.svg)](https://linkedin.com/in/jon-snover-b15272110#gh-light-mode-only)
+  [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jon-snover-b15272110#gh-dark-mode-only)
+  &nbsp;&nbsp;
 
 📫 The best way to reach me over is Linkedin. You can also send me an e-mail at Snoverjon@gmail.com.
 
