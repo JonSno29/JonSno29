@@ -4,6 +4,8 @@
   
   ## MY STORY:
   
+  My name is Jon Snover and I am a University Of Minnesota, Full-Stack Coding Bootcamp Student.
+  
   I came across this coding bootcamp while studying to become a Real Estate agent, 
   
   when I asked myself “What do you really want to do?”. Eventually, my goal is to become a remote developer,
@@ -15,7 +17,7 @@
 
    ## TABLE OF CONTENTS:
 
- 🎗[CONTACT ME](##contact-me)                                       
+ 🎗[CONTACT ME](#contact-me)                                       
  
  🎗[](#)  
  
@@ -75,7 +77,7 @@
   
  ## LIVE LINK:
 
-🎗 GITHUB REPO:
+  GITHUB REPOSITORY:
 
   🎗  https://github.com/JonSno29
   
@@ -110,9 +112,7 @@
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/-Sequelize-d3d3d3?style=for-the-badge&logo=sequelize&logoColor=52B0E7)![](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 <footer>
- <div align="center" id="top">
-<img width="700px" height="200px" src="readme1.png"/> 
+ <div align="center" id="bottom">
+<img width="1000px" height="150px" src="readme1.png"/> 
 </div>
 </footer>
-
-
