@@ -69,11 +69,19 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </kbd>
   
- ## LIVE LINK:
+ ## LIVE LINKS OF PROJECTS:
 
   GITHUB REPOSITORY:
 
   🎗  https://github.com/JonSno29
+  
+  🎗  https://jonsno29.github.io/F.C.S.W./
+  
+  🎗  https://jonsno29.github.io/JTS_PORTFOLIO/
+  
+  🎗  https://jonsno29.github.io/Landing-Page1/
+  
+  🎗  https://jonsno29.github.io/Warsh/
   
 
 ## CREDITS:
