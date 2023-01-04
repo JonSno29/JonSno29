@@ -3,16 +3,31 @@
   </div> 
   
   ## MY STORY:
+
+```
+  My name is Jon Snover and I am a University Of Minnesota, 
+
+  Full-Stack Coding Bootcamp Student.
   
-  My name is Jon Snover and I am a University Of Minnesota, Full-Stack Coding Bootcamp Student.
+  I came across this coding bootcamp while studying 
+
+  to become a Real Estate agent, when I asked myself 
+
+  “What do you really want to do?”. Eventually, 
+
+   my goal is to become a remote developer,
   
-  I came across this coding bootcamp while studying to become a Real Estate agent, 
+  a very good one. I love to problem solve, 
+
+  be creative and go above and beyond. 
+
+  I am a very hard worker and believe 
+
+  I would make a strong addition to the your team, 
+
+  please check out my GitHub.
+```
   
-  when I asked myself “What do you really want to do?”. Eventually, my goal is to become a remote developer,
-  
-  a very good one. I love to problem solve, be creative and go above and beyond. I am a very hard worker
-  
-  and believe I would make a strong addition to the your team, please check out my GitHub.
 
 
    ## TABLE OF CONTENTS:
