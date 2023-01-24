@@ -110,7 +110,9 @@
  
 ## HOW TO CONTRIBUTE:
 
-🎗 Fork my repositories so I can fork yours:
+🎗 Lets fork eachother:
+  
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
 
 🎗 Use the "scout rule" to help others.
 
