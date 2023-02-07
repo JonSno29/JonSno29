@@ -2,10 +2,6 @@
   <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
   
-  <p align="center">
-<img src="banner.svg"/>
-
-  
   ## MY STORY:
 
 ```
@@ -161,4 +157,7 @@
  <div align="center" id="bottom">
 <img width="1000px" height="150px" src="readme1.png"/> 
 </div>
+ <p align="center">
+<img src="banner.svg"/>
+
 </footer>
