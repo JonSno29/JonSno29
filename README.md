@@ -129,10 +129,8 @@ READMEcontact.gif
 ```
 </div>
 
-## LICENSE:
-READMEcontact.gif
 <p align="center">
-<img src="READMEcontact.gif">
+<img src="licenseread.gif">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  <p align="center">
