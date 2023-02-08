@@ -82,11 +82,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </kbd>
-  
- ## LIVE LINKS OF PROJECTS:
- READMEcontact.gif
 <p align="center">
-<img src="READMEcontact.gif">
+<img src="livemockup.gif">
 
   GITHUB REPOSITORY:
 
