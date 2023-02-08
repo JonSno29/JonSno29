@@ -1,11 +1,8 @@
 <div align="center" id="top">
   <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
-  
-  ## MY STORY:
-  READMEcontact.gif
 <p align="center">
-<img src="READMEcontact.gif">
+<img src="userstoryread.gif">
 
 ```
   My name is Jon Snover and I am a University Of Minnesota, 
