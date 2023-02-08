@@ -135,11 +135,8 @@ READMEcontact.gif
 <img src="READMEcontact.gif">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- 
-## HOW TO CONTRIBUTE:
-READMEcontact.gif
-<p align="center">
-<img src="READMEcontact.gif">
+ <p align="center">
+<img src="FCCREAD.gif">
 
 🎗 Lets fork eachother:
   
@@ -147,7 +144,6 @@ READMEcontact.gif
 
 🎗 Use the "scout rule" to help others.
 
-READMEcontact.gif
 <p align="center">
 <img src="READMEcontact.gif">
 
