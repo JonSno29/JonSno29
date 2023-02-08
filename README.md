@@ -32,10 +32,8 @@
 
  🎗[CONTACT ME](#contact-me)                                         
 
-  ## INSTALLATION:
-  READMEcontact.gif
 <p align="center">
-<img src="READMEcontact.gif">
+<img src="installread.gif">
 
 <p style="display: inline-block;" align="center">
   <kbd>
