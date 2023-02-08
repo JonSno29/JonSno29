@@ -97,11 +97,8 @@
   
   🎗  https://jonsno29.github.io/Warsh/
   
-
-## CREDITS:
-READMEcontact.gif
 <p align="center">
-<img src="READMEcontact.gif">
+<img src="creditsread.gif">
 
   🎗 Jon Snover/https://github.com/JonSno29
   
