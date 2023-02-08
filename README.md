@@ -2,7 +2,7 @@
   <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
 <p align="center">
-<img src="userstoryread.gif" width="700px" height="40px"></p>
+<img src="userstoryread.gif" width="400px" height="40px"></p>
 
 ```
   My name is Jon Snover and I am a University Of Minnesota, 
@@ -28,12 +28,11 @@
   please check out my GitHub.
 ```
 <p align="center">
-<img src="TOCread.gif">
+<img src="TOCread.gif" width="700px" height="40px"></p>
 
  🎗[CONTACT ME](#contact-me)                                         
-
 <p align="center">
-  <img src="installread.gif width="700px" height="40px"></p>
+<img src="installread.gif" width="500px" height="40px"></p>
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -83,7 +82,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </kbd>
 <p align="center">
-<img src="livemockup.gif">
+<img src="livemockup.gif" width="700px" height="40px"></p>
 
   GITHUB REPOSITORY:
 
@@ -98,9 +97,9 @@
   🎗  https://jonsno29.github.io/Warsh/
   
 <p align="center">
-<img src="creditsread.gif">
+<img src="creditsread.gif" width="300px" height="40px"></p>
 
-  🎗 Jon Snover/https://github.com/JonSno29
+  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
   
 <div align="center">
   
@@ -127,7 +126,7 @@
 </div>
 
 <p align="center">
-<img src="licenseread.gif">
+<img src="licenseread.gif" width="300px" height="40px"></p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  <p align="center">
@@ -135,12 +134,14 @@
 
 🎗 Lets fork eachother:
   
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+  
+  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>    <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>   <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>.  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
 🎗 Use the "scout rule" to help others.
 
 <p align="center">
-<img src="READMEcontact.gif">
+<img src="READMEcontact.gif" width="500px" height="40px"></p>
 
 <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
