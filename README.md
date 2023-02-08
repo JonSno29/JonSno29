@@ -27,13 +27,8 @@
 
   please check out my GitHub.
 ```
-  
-
-
-   ## TABLE OF CONTENTS:
-   READMEcontact.gif
 <p align="center">
-<img src="READMEcontact.gif">
+<img src="TOCread.gif">
 
  🎗[CONTACT ME](#contact-me)                                         
 
