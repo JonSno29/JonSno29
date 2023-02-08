@@ -2,7 +2,7 @@
   <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
 <p align="center">
-<img src="userstoryread.gif">
+<img src="userstoryread.gif" width="700px" height="40px"></p>
 
 ```
   My name is Jon Snover and I am a University Of Minnesota, 
@@ -33,7 +33,7 @@
  🎗[CONTACT ME](#contact-me)                                         
 
 <p align="center">
-<img src="installread.gif">
+  <img src="installread.gif width="700px" height="40px"></p>
 
 <p style="display: inline-block;" align="center">
   <kbd>
