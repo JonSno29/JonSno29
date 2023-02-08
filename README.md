@@ -3,6 +3,9 @@
   </div> 
   
   ## MY STORY:
+  READMEcontact.gif
+<p align="center">
+<img src="READMEcontact.gif">
 
 ```
   My name is Jon Snover and I am a University Of Minnesota, 
@@ -31,10 +34,16 @@
 
 
    ## TABLE OF CONTENTS:
+   READMEcontact.gif
+<p align="center">
+<img src="READMEcontact.gif">
 
  🎗[CONTACT ME](#contact-me)                                         
 
   ## INSTALLATION:
+  READMEcontact.gif
+<p align="center">
+<img src="READMEcontact.gif">
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -85,6 +94,9 @@
 </kbd>
   
  ## LIVE LINKS OF PROJECTS:
+ READMEcontact.gif
+<p align="center">
+<img src="READMEcontact.gif">
 
   GITHUB REPOSITORY:
 
@@ -100,6 +112,9 @@
   
 
 ## CREDITS:
+READMEcontact.gif
+<p align="center">
+<img src="READMEcontact.gif">
 
   🎗 Jon Snover/https://github.com/JonSno29
   
@@ -128,10 +143,16 @@
 </div>
 
 ## LICENSE:
+READMEcontact.gif
+<p align="center">
+<img src="READMEcontact.gif">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
 ## HOW TO CONTRIBUTE:
+READMEcontact.gif
+<p align="center">
+<img src="READMEcontact.gif">
 
 🎗 Lets fork eachother:
   
@@ -139,8 +160,9 @@
 
 🎗 Use the "scout rule" to help others.
 
-
-## CONTACT ME:
+READMEcontact.gif
+<p align="center">
+<img src="READMEcontact.gif">
 
 <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
