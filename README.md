@@ -84,17 +84,7 @@
 <p align="center">
 <img src="livemockup.gif" width="700px" height="40px"></p>
 
-  GITHUB REPOSITORY:
-
-  🎗  https://github.com/JonSno29
-  
-  🎗  https://jonsno29.github.io/F.C.S.W./
-  
-  🎗  https://jonsno29.github.io/JTS_PORTFOLIO/
-  
-  🎗  https://jonsno29.github.io/Landing-Page1/
-  
-  🎗  https://jonsno29.github.io/Warsh/
+ 🎗 https://jonsno29.github.io/Folio/
   
 <p align="center">
 <img src="creditsread.gif" width="300px" height="40px"></p>
@@ -103,23 +93,27 @@
   
 <div align="center">
   
-```
-                                             
-     /__-__\ 
-    (|~o.o~|)     
-      \`-'/                                        
-     _/`U'\_     *Programming isn't about what you know                                     
-    ( .   . )     It's about what you can figure out*    
-   / /     \ \         
-   \ |  ,  | /      
-    \|=====|/      *Testing leads to failure                                  
-     |_.^._|        and failure leads to understanding*                                
-     | |"| |                                         
-     ( ) ( )                 
-     |_| |_|       
- _.-' _j L_ '-._                                     
-(___.'     '.___)                                    
 
+ ```                                            
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 </div>
 
