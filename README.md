@@ -138,7 +138,7 @@
   
   <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>    <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>   <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>.  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
-🎗 Use the "scout rule" to help others.
+🎗 Use the "scout rule" to help others by leaving your code better than you found it.
 
 <p align="center">
 <img src="READMEcontact.gif" width="500px" height="40px"></p>
@@ -146,10 +146,7 @@
 <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
  
-  [![website](linkindark.svg)](https://linkedin.com/in/jon-snover-b15272110#gh-dark-mode-only)
- 
-
-📫 The best way to reach me over is Linkedin. You can also send me an e-mail at Snoverjon@gmail.com.
+  [![website](linkindark.svg)](https://linkedin.com/in/jon-snover-b15272110)
 
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/-Sequelize-d3d3d3?style=for-the-badge&logo=sequelize&logoColor=52B0E7)![](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
