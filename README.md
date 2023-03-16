@@ -84,7 +84,11 @@
 <p align="center">
 <img src="livemockup.gif" width="700px" height="40px"></p>
 
- 🎗 https://jonsno29.github.io/Folio/
+PORTFOLIO #1 🎗https://jonsno29.github.io/JTS_PORTFOLIO/
+ 
+PORTFOLIO #2 🎗 https://jonsno29.github.io/Folio/
+ 
+PORTFOLIO #3 🎗https://jonsno29.github.io/EPORTFOLIO/
   
 <p align="center">
 <img src="creditsread.gif" width="300px" height="40px"></p>
