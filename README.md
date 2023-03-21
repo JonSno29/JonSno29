@@ -7,9 +7,9 @@
 ```
   My name is Jon Snover and I am a University Of Minnesota, 
 
-  Full-Stack Coding Bootcamp Student.
+  Full-Stack Coding Bootcamp Graduate.
   
-  I came across this coding bootcamp while studying 
+  I came across the coding bootcamp while studying 
 
   to become a Real Estate agent, when I asked myself 
 
