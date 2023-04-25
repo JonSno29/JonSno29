@@ -86,9 +86,7 @@
 
 PORTFOLIO #1 🎗https://jonsno29.github.io/JTS_PORTFOLIO/
  
-PORTFOLIO #2 🎗 https://jonsno29.github.io/Folio/
- 
-PORTFOLIO #3 🎗https://jonsno29.github.io/EPORTFOLIO/
+PORTFOLIO #2 🎗https://jonsno29.github.io/CVwebsitE/
   
 <p align="center">
 <img src="creditsread.gif" width="300px" height="40px"></p>
