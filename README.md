@@ -52,7 +52,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql2/mysql2-plain.svg" />
   </kbd>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
