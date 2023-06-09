@@ -13,11 +13,11 @@
 
   to become a Real Estate agent, when I asked myself 
 
-  “What do you really want to do?”. Eventually, 
+  “What do you really want to do?”.  
 
-   my goal is to become a remote developer,
+   My goal is to become a web developer,
   
-  a very good one. I love to problem solve, 
+   I love to problem solve, 
 
   be creative and go above and beyond. 
 
@@ -126,9 +126,8 @@ PORTFOLIO #2 🎗https://jonsno29.github.io/CVwebsitE/
 <img src="FCCREAD.gif">
 
 
-  
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+ <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
   
   <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>    <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>   <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>.  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a><a href="https://github.com/jonsno29" target="_blank">
 
@@ -137,7 +136,7 @@ PORTFOLIO #2 🎗https://jonsno29.github.io/CVwebsitE/
 <p align="center">
 <img src="READMEcontact.gif" width="500px" height="40px"></p>
 
- <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a> 
+ <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a>
 
  
   [![website](linkindark.svg)](https://linkedin.com/in/jon-snover-b15272110)
