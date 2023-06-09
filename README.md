@@ -58,13 +58,6 @@
 
 🎗  https://jonsno29.github.io/PhotoWebpage/
  
-   
-       
-      
-            <a class="button" href="./CODINGDEGREE.pdf" target="_blank">CERTIFICATE</a>
-           <p align="center"> 
-      <a href="CODINGDEGREE.pdf" target="_blank"><img src="CODINGDEGREE.pdf"></a>
-   </p>
 
 
 <p align="center">
