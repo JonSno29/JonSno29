@@ -30,13 +30,13 @@
 <p align="center">
 <img src="TOCread.gif" width="700px" height="40px"></p>
 
-🎗  
-🎗
-🎗
-🎗
-🎗
-🎗
-🎗
+🎗  https://sleepy-peak-49948.herokuapp.com/
+🎗  https://jonsno29.github.io/PRIMETIME/
+🎗  https://jonsno29.github.io/AudreyRose/
+🎗  https://jonsno29.github.io/Warsh/
+🎗  https://jonsno29.github.io/Number_1_Coders/
+🎗  https://jonsno29.github.io/F.C.S.W./
+🎗  https://jonsno29.github.io/Coding_Assessment_Quiz/
 <p align="center">
 <img src="installread.gif" width="500px" height="40px"></p>
 
