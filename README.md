@@ -58,7 +58,10 @@
 
 🎗  https://jonsno29.github.io/PhotoWebpage/
  
-
+    <div>
+            <h2 class="title">Bootcamp Certificate</h2>
+            <a class="button" href="./CODINGDEGREE.pdf" target="_blank"> CERTIFICATE </a>
+    </div>
 
 
 <p align="center">
@@ -173,5 +176,8 @@ PORTFOLIO #2 🎗https://jonsno29.github.io/CVwebsitE/
 <img src="banner.svg"/>
 </footer>
 
-
+<p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/JonSno29/count.svg" />
+</p>
 
