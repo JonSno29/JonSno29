@@ -44,6 +44,23 @@
 
 🎗  https://jonsno29.github.io/Coding_Assessment_Quiz/
 
+## TEMPLATES AND GAMES:
+
+🎗  https://jonsno29.github.io/Wordlish/
+
+🎗  https://jonsno29.github.io/LemmingsRemake/?version=1&difficulty=1&level=1&speed=1&cheat=false
+
+🎗  https://jonsno29.github.io/RealEstateOne/
+
+🎗  https://jonsno29.github.io/CoTemp/
+
+🎗  https://jonsno29.github.io/FOLIOTEMPLATE/
+
+🎗  https://jonsno29.github.io/PhotoWebpage/
+ 
+
+
+
 <p align="center">
 <img src="installread.gif" width="500px" height="40px"></p>
 
