@@ -30,7 +30,13 @@
 <p align="center">
 <img src="TOCread.gif" width="700px" height="40px"></p>
 
- 🎗[CONTACT ME](#contact-me)                                         
+🎗  
+🎗
+🎗
+🎗
+🎗
+🎗
+🎗
 <p align="center">
 <img src="installread.gif" width="500px" height="40px"></p>
 
@@ -127,19 +133,30 @@ PORTFOLIO #2 🎗https://jonsno29.github.io/CVwebsitE/
 
 
  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
   
-  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>    <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>   <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>.  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a><a href="https://github.com/jonsno29" target="_blank">
+  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>    <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>   
 
  
 
 <p align="center">
 <img src="READMEcontact.gif" width="500px" height="40px"></p>
 
- <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a>
+<a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a>
+  
+<a href="https://github.com/JonSno29" target="_blank"><img src="https://img.shields.io/badge/Github-JonSno29-green?style=for-the-badge&logo=github"></a>
+
+<a href="https://facebook.com/jon.snover" target="_blank"><img src="https://img.shields.io/badge/FaceBook-JonSnover-purple?style=for-the-badge&logo=facebook"></a>
+
+<a href="https://twitter.com/Jon_Snover" target="_blank"><img src="https://img.shields.io/badge/Twitter-JonSnover-blue?style=for-the-badge&logo=twitter"></a>
+
+<a href="https://m.me/jon.snover" target="_blank"><img src="https://img.shields.io/badge/Messenger-JonSnover-red?style=for-the-badge&logo=messenger"></a>
+
+<a href="mailto:Snoverjon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-SnoverJon@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+
 
  
-  [![website](linkindark.svg)](https://linkedin.com/in/jon-snover-b15272110)
+  [![website](linkindark.svg)](https://linkedin.com/in/jontsnover)
 
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/-Sequelize-d3d3d3?style=for-the-badge&logo=sequelize&logoColor=52B0E7)![](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
