@@ -16,6 +16,12 @@
   Please check out my GitHub.
   
 ```
+
+ <div>
+            <h2 class="title"> Coding Bootcamp Certificate </h2>
+            <a class="button" href="./CODINGDEGREE.pdf" target="_blank">Certificate</a>
+        </div>
+
 <p align="center">
 <img src="TOCread.gif" width="700px" height="40px"></p>
 
