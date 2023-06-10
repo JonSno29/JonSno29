@@ -136,9 +136,9 @@
 <p align="center">
 <img src="livemockup.gif" width="700px" height="40px"></p>
 
-PORTFOLIO #1 🎗https://jonsno29.github.io/JTS_PORTFOLIO/
+🎗 PORTFOLIO #1 https://jonsno29.github.io/JTS_PORTFOLIO/
  
-PORTFOLIO #2 🎗https://jonsno29.github.io/CVwebsitE/
+🎗 PORTFOLIO #2 https://jonsno29.github.io/CVwebsitE/
   
 <p align="center">
 <img src="creditsread.gif" width="300px" height="40px"></p>
