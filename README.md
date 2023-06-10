@@ -221,7 +221,8 @@
 </table>
 <footer>
  <p align="center">
-<img src="banner.svg"/>
+   <img width="500px" height="200px" src="banner.svg"/>
+</p>
 </footer>
 
 <p align="center"> 
