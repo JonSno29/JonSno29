@@ -113,20 +113,22 @@
  ## HELPFUL CLONE STEPS FOR PROJECTS:
   
   ```
-Create desktop folder
-Put template or clone inside desktop folder
-Open text editor (I use VScode)
-Move files outside of template or clone repository name 
-Delete template or repository name
-🎗 Create GitHub repository
-echo "# ..." >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/THE.REPO.YOU.JUST.CREATED/
-git push -u origin main
+1)  Create desktop folder
+2)  Put template or clone inside desktop folder
+3)  Open text editor (I use VScode)
+4)  Move files outside of template or clone repository name 
+5)  Delete template or repository name
+🎗 CREATE GitHub REPOSITORY
+6)  echo "# ..." >> README.md
+7)  git init
+8)  git add .
+9)  git commit -m "first commit"
+10) git branch -M main
+11) git remote add origin https://github.com/THE.REPO.YOU.JUST.CREATED/
+12) git push -u origin main
   ```
+🎗   https://github.com/JonSno29/Clone_ReactJS_Steps
+  
 <p align="center">
 <img src="livemockup.gif" width="700px" height="40px"></p>
 
@@ -157,10 +159,9 @@ PORTFOLIO #2 🎗https://jonsno29.github.io/CVwebsitE/
 <img src="FCCREAD.gif">
 
 
- <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+ <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> 
   
-  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>    <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>   
+  <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>    
 
  
 
