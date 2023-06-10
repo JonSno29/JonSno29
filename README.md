@@ -43,6 +43,8 @@
 🎗  https://jonsno29.github.io/F.C.S.W./
 
 🎗  https://jonsno29.github.io/Coding_Assessment_Quiz/
+  
+🎗 https://jonsno29.github.io/Weather_Forecast/
 
 ## TEMPLATES AND GAMES:
   
