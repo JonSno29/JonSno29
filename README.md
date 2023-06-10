@@ -111,12 +111,18 @@
 </kbd>
   
   ```
-  echo "# ..." >> README.md
+Create desktop folder
+Put template or clone inside desktop folder
+Open text editor (I use VScode)
+Move files outside of template or clone repository name 
+Delete template or repository name
+🎗 Create GitHub repository
+echo "# ..." >> README.md
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/JonSno29/....git
+git remote add origin https://github.com/THE.REPO.YOU.JUST.CREATED/
 git push -u origin main
   ```
 <p align="center">
