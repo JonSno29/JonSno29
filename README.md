@@ -110,6 +110,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </kbd>
   
+ ## HELPFUL CLONE STEPS FOR PROJECTS:
+  
   ```
 Create desktop folder
 Put template or clone inside desktop folder
