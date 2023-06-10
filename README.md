@@ -109,6 +109,16 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </kbd>
+  
+  ```
+  echo "# ..." >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JonSno29/....git
+git push -u origin main
+  ```
 <p align="center">
 <img src="livemockup.gif" width="700px" height="40px"></p>
 
