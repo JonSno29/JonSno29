@@ -144,7 +144,6 @@ PORTFOLIO #2 🎗https://jonsno29.github.io/CVwebsitE/
    <img width="400" align="center" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gif" />
   
 <div align="center">
-  🎗
   
  
 
