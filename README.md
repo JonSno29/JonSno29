@@ -220,9 +220,9 @@
   </tr>
 </table>
 <footer>
- <p align="center">
-   <img width="500px" height="200px" src="banner.svg"/>
-</p>
+<div align="center" id="top">
+  <img width="500px" height="200px" src="banner.svg"/>
+  </div> 
 </footer>
 
 <p align="center"> 
