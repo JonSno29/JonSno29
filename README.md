@@ -5,15 +5,15 @@
 <img src="userstoryread.gif" width="400px" height="40px"></p>
 
 ```
-  My name is Jon Snover and I am a University Of Minnesota, Full-Stack Coding Bootcamp Graduate.
-  
-  I came across the coding bootcamp while researching and studying to become a Real Estate agent, I asked myself 
+ My name is Jon Snover and I am a Full-Stack web developer,
 
-  “What do you really want?”.  My goal is to become a web developer, I love to problem solve, 
+ I would love to assist you or your company with whatever needs you have to meet.
   
-  be creative and go above and beyond. I am a very hard worker and believe I would make a strong addition to the your team, 
+ I love to problem solve, be creative and go above and beyond. I am a very hard worker,
 
-  Please check out my GitHub.
+ I'm not lazy and I don't give up. (Like those other dweeb programmers.) 
+
+                   Please check out my GitHub.
   
 ```
 
