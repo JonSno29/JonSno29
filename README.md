@@ -62,7 +62,11 @@
 
 🎗  https://jonsno29.github.io/PhotoWebpage/
  
+## AFFILIATE MARKETING:
 
+🎗 https://melaniesmerch.com/
+
+🎗 https://ismokemeat.com/
 
 <p align="center">
 <img src="installread.gif" width="500px" height="40px"></p>
