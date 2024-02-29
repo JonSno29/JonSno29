@@ -11,7 +11,7 @@
   
  I love to problem solve, be creative and go above and beyond. I am a very hard worker,
 
- I'm not lazy and I don't give up. (Like those other dweeb programmers.) 
+ I'm not lazy and I don't give up. (Like those other programmers.) 
 
                    Please check out my GitHub.
   
